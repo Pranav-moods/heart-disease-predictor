@@ -1,12 +1,12 @@
 # heart-disease-predictor
 
-🫀 Heart Disease Prediction Dashboard
+## 🫀 Heart Disease Prediction Dashboard
 
 An interactive Streamlit web application that predicts the risk of heart disease based on medical attributes such as age, cholesterol, blood pressure, and more.
 The app uses a Random Forest Classifier trained on the UCI Heart Disease Dataset
  to provide personalized health insights.
 
-🚀 Features
+## 🚀 Features
 
 📋 User-friendly health form – enter age, sex, chest pain type, cholesterol, etc.
 
@@ -18,7 +18,7 @@ The app uses a Random Forest Classifier trained on the UCI Heart Disease Dataset
 
 🖥️ Interactive dashboard – built using Streamlit.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend/UI: Streamlit
 
@@ -30,7 +30,7 @@ Visualization: Matplotlib, Seaborn
 
 Model Serialization: Joblib
 
-📂 Project Structure
+## 📂 Project Structure
 heart-disease-predictor/
 │
 ├── app.py                 # Streamlit application
@@ -39,7 +39,7 @@ heart-disease-predictor/
 ├── README.md              # Project documentation
 └── images/                # (Optional) screenshots for README
 
-⚙️ Installation & Usage
+## ⚙️ Installation & Usage
 1️⃣ Clone the repository
 git clone https://github.com/your-username/heart-disease-predictor.git
 cd heart-disease-predictor
@@ -55,7 +55,7 @@ streamlit run app.py
 The app will run locally at:
 👉 http://localhost:8501
 
-📊 Example Output
+## 📊 Example Output
 
 Prediction Example:
 
@@ -67,7 +67,7 @@ Feature Importance Visualization:
 <img width="1710" height="926" alt="image" src="https://github.com/user-attachments/assets/b2c3a2ae-32ea-4929-88a3-d1488b8c04d5" />
 
 
-📘 Dataset
+## 📘 Dataset
 
 The model is trained on the UCI Heart Disease Dataset, which includes 13 key health attributes such as:
 
@@ -97,7 +97,7 @@ Major vessels colored by fluoroscopy (ca)
 
 Thalassemia (thal)
 
-📈 Future Improvements
+## 📈 Future Improvements
 
 🔮 Add more ML models (e.g., XGBoost, Logistic Regression) for comparison
 
