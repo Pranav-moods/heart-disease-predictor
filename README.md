@@ -31,13 +31,12 @@ Visualization: Matplotlib, Seaborn
 Model Serialization: Joblib
 
 ## 📂 Project Structure
-heart-disease-predictor/
-│
-├── app.py                 # Streamlit application<br>
+heart-disease-predictor/<br>
+│<br>
+├── main.py                 # Streamlit application<br>
 ├── rf_model.pkl           # Trained Random Forest model<br>
 ├── requirements.txt       # Dependencies<br>
 ├── README.md              # Project documentation<br>
-└── images/                # (Optional) screenshots for README<br>
 
 ## ⚙️ Installation & Usage
 1️⃣ Clone the repository
