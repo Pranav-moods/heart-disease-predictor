@@ -40,7 +40,7 @@ heart-disease-predictor/<br>
 
 ## ⚙️ Installation & Usage
 1️⃣ Clone the repository
-git clone https://github.com/your-username/heart-disease-predictor.git
+git clone https://github.com/Pranav-moods/heart-disease-predictor
 cd heart-disease-predictor
 
 2️⃣ Install dependencies
